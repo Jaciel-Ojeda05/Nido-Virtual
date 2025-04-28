@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "Hash": "iksQ/mI3H7m0gSnTUEPX7AERlrxDck99pU3VZ1ibanA=",
+  "Source": "UNITEC.NV.API",
+  "BasePath": "_content/UNITEC.NV.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UNITEC.NV.API\\wwwroot",
+      "Source": "UNITEC.NV.API",
+      "ContentRoot": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\",
+      "BasePath": "_content/UNITEC.NV.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\04abfaf4-c3ab-4a86-8a62-7ecd8d206c6c.png",
+      "SourceId": "UNITEC.NV.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\",
+      "BasePath": "_content/UNITEC.NV.API",
+      "RelativePath": "imagenes/04abfaf4-c3ab-4a86-8a62-7ecd8d206c6c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u7memi0v0d",
+      "Integrity": "BnrkiSSpZyX8yx7zDAdEu499uPSRVlGYVEN/kaq1WiI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\04abfaf4-c3ab-4a86-8a62-7ecd8d206c6c.png"
+    },
+    {
+      "Identity": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\106f2539-b449-4951-a6fa-b0ace545f397.jpg",
+      "SourceId": "UNITEC.NV.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\",
+      "BasePath": "_content/UNITEC.NV.API",
+      "RelativePath": "imagenes/106f2539-b449-4951-a6fa-b0ace545f397#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ovea0gps60",
+      "Integrity": "1DkPr63BIJ1d2CA4ACleiO0yq2+lgvUXRAsWcPVBisk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\106f2539-b449-4951-a6fa-b0ace545f397.jpg"
+    },
+    {
+      "Identity": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\296dcaca-b126-476b-af0b-9106e5471a3f.jpeg",
+      "SourceId": "UNITEC.NV.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\",
+      "BasePath": "_content/UNITEC.NV.API",
+      "RelativePath": "imagenes/296dcaca-b126-476b-af0b-9106e5471a3f#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8iglvq1rdb",
+      "Integrity": "0D0HvW0MMpISmaUSNDheQgLKopNPgd2G5Aaq2VvbVbE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\296dcaca-b126-476b-af0b-9106e5471a3f.jpeg"
+    },
+    {
+      "Identity": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\2a21a6b3-f9e8-4b2a-b605-46a5e5f22e0e.png",
+      "SourceId": "UNITEC.NV.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\",
+      "BasePath": "_content/UNITEC.NV.API",
+      "RelativePath": "imagenes/2a21a6b3-f9e8-4b2a-b605-46a5e5f22e0e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1s7jvclkok",
+      "Integrity": "39JGQPTcuWjqmf/lsaXXRdObW5TEbjWWkrSruNLJ/M8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\2a21a6b3-f9e8-4b2a-b605-46a5e5f22e0e.png"
+    },
+    {
+      "Identity": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\315b912b-dddd-46d0-8a87-d06ee33e20b8.png",
+      "SourceId": "UNITEC.NV.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\",
+      "BasePath": "_content/UNITEC.NV.API",
+      "RelativePath": "imagenes/315b912b-dddd-46d0-8a87-d06ee33e20b8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1s7jvclkok",
+      "Integrity": "39JGQPTcuWjqmf/lsaXXRdObW5TEbjWWkrSruNLJ/M8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\315b912b-dddd-46d0-8a87-d06ee33e20b8.png"
+    },
+    {
+      "Identity": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\5ae132e3-8113-4287-9f70-e9f2df53f5b5.png",
+      "SourceId": "UNITEC.NV.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\",
+      "BasePath": "_content/UNITEC.NV.API",
+      "RelativePath": "imagenes/5ae132e3-8113-4287-9f70-e9f2df53f5b5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qdrcb6xjfz",
+      "Integrity": "nqgdC/ZcNcczliTQ61qiOrE/TwRpqX3csDYwatDQPqU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\5ae132e3-8113-4287-9f70-e9f2df53f5b5.png"
+    },
+    {
+      "Identity": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\5f9353a0-fc1b-4805-903c-cf5312a7e1f9.jpeg",
+      "SourceId": "UNITEC.NV.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\",
+      "BasePath": "_content/UNITEC.NV.API",
+      "RelativePath": "imagenes/5f9353a0-fc1b-4805-903c-cf5312a7e1f9#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ug7be823mv",
+      "Integrity": "cjfBHwcrnkn+HadD8RzpLIY45NSnePHvR+j0uk2aztU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\5f9353a0-fc1b-4805-903c-cf5312a7e1f9.jpeg"
+    },
+    {
+      "Identity": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\7b353d00-7ab4-4f23-8a8d-ed2bca69c4b3.jpg",
+      "SourceId": "UNITEC.NV.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\",
+      "BasePath": "_content/UNITEC.NV.API",
+      "RelativePath": "imagenes/7b353d00-7ab4-4f23-8a8d-ed2bca69c4b3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s0tkjar9vx",
+      "Integrity": "7Bqqcy8XFNFq6K9X1C9BTxOvGowY7hzXpdxrBnerFPE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\7b353d00-7ab4-4f23-8a8d-ed2bca69c4b3.jpg"
+    },
+    {
+      "Identity": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\816312c7-e732-428f-b0e3-ec018e2b4548.png",
+      "SourceId": "UNITEC.NV.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\",
+      "BasePath": "_content/UNITEC.NV.API",
+      "RelativePath": "imagenes/816312c7-e732-428f-b0e3-ec018e2b4548#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0sr28e42gs",
+      "Integrity": "4EbThroNAdK5jgfn0FgAZESwUqTaYakS/Tl6PelyDyI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\816312c7-e732-428f-b0e3-ec018e2b4548.png"
+    },
+    {
+      "Identity": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\a7e78d5e-f66c-461b-9f12-75ec9624bd7d.png",
+      "SourceId": "UNITEC.NV.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\",
+      "BasePath": "_content/UNITEC.NV.API",
+      "RelativePath": "imagenes/a7e78d5e-f66c-461b-9f12-75ec9624bd7d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dl1qc9zr0t",
+      "Integrity": "bzWGXE+B12DbVA5mwFR3VxV9ox65wdCeCyUep1CIjhE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\a7e78d5e-f66c-461b-9f12-75ec9624bd7d.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "imagenes/04abfaf4-c3ab-4a86-8a62-7ecd8d206c6c.png",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\04abfaf4-c3ab-4a86-8a62-7ecd8d206c6c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BnrkiSSpZyX8yx7zDAdEu499uPSRVlGYVEN/kaq1WiI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 20:06:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BnrkiSSpZyX8yx7zDAdEu499uPSRVlGYVEN/kaq1WiI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/04abfaf4-c3ab-4a86-8a62-7ecd8d206c6c.u7memi0v0d.png",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\04abfaf4-c3ab-4a86-8a62-7ecd8d206c6c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BnrkiSSpZyX8yx7zDAdEu499uPSRVlGYVEN/kaq1WiI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 20:06:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u7memi0v0d"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/04abfaf4-c3ab-4a86-8a62-7ecd8d206c6c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BnrkiSSpZyX8yx7zDAdEu499uPSRVlGYVEN/kaq1WiI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/106f2539-b449-4951-a6fa-b0ace545f397.jpg",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\106f2539-b449-4951-a6fa-b0ace545f397.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1DkPr63BIJ1d2CA4ACleiO0yq2+lgvUXRAsWcPVBisk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 06:27:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1DkPr63BIJ1d2CA4ACleiO0yq2+lgvUXRAsWcPVBisk="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/106f2539-b449-4951-a6fa-b0ace545f397.ovea0gps60.jpg",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\106f2539-b449-4951-a6fa-b0ace545f397.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1DkPr63BIJ1d2CA4ACleiO0yq2+lgvUXRAsWcPVBisk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 06:27:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ovea0gps60"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/106f2539-b449-4951-a6fa-b0ace545f397.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1DkPr63BIJ1d2CA4ACleiO0yq2+lgvUXRAsWcPVBisk="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/296dcaca-b126-476b-af0b-9106e5471a3f.8iglvq1rdb.jpeg",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\296dcaca-b126-476b-af0b-9106e5471a3f.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0D0HvW0MMpISmaUSNDheQgLKopNPgd2G5Aaq2VvbVbE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 07:01:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8iglvq1rdb"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/296dcaca-b126-476b-af0b-9106e5471a3f.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0D0HvW0MMpISmaUSNDheQgLKopNPgd2G5Aaq2VvbVbE="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/296dcaca-b126-476b-af0b-9106e5471a3f.jpeg",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\296dcaca-b126-476b-af0b-9106e5471a3f.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0D0HvW0MMpISmaUSNDheQgLKopNPgd2G5Aaq2VvbVbE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 07:01:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0D0HvW0MMpISmaUSNDheQgLKopNPgd2G5Aaq2VvbVbE="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/2a21a6b3-f9e8-4b2a-b605-46a5e5f22e0e.1s7jvclkok.png",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\2a21a6b3-f9e8-4b2a-b605-46a5e5f22e0e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1389108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"39JGQPTcuWjqmf/lsaXXRdObW5TEbjWWkrSruNLJ/M8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 21:25:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1s7jvclkok"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/2a21a6b3-f9e8-4b2a-b605-46a5e5f22e0e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-39JGQPTcuWjqmf/lsaXXRdObW5TEbjWWkrSruNLJ/M8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/2a21a6b3-f9e8-4b2a-b605-46a5e5f22e0e.png",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\2a21a6b3-f9e8-4b2a-b605-46a5e5f22e0e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1389108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"39JGQPTcuWjqmf/lsaXXRdObW5TEbjWWkrSruNLJ/M8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 21:25:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-39JGQPTcuWjqmf/lsaXXRdObW5TEbjWWkrSruNLJ/M8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/315b912b-dddd-46d0-8a87-d06ee33e20b8.1s7jvclkok.png",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\315b912b-dddd-46d0-8a87-d06ee33e20b8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1389108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"39JGQPTcuWjqmf/lsaXXRdObW5TEbjWWkrSruNLJ/M8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 20:15:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1s7jvclkok"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/315b912b-dddd-46d0-8a87-d06ee33e20b8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-39JGQPTcuWjqmf/lsaXXRdObW5TEbjWWkrSruNLJ/M8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/315b912b-dddd-46d0-8a87-d06ee33e20b8.png",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\315b912b-dddd-46d0-8a87-d06ee33e20b8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1389108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"39JGQPTcuWjqmf/lsaXXRdObW5TEbjWWkrSruNLJ/M8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 20:15:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-39JGQPTcuWjqmf/lsaXXRdObW5TEbjWWkrSruNLJ/M8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/5ae132e3-8113-4287-9f70-e9f2df53f5b5.png",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\5ae132e3-8113-4287-9f70-e9f2df53f5b5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1217057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nqgdC/ZcNcczliTQ61qiOrE/TwRpqX3csDYwatDQPqU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 21:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nqgdC/ZcNcczliTQ61qiOrE/TwRpqX3csDYwatDQPqU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/5ae132e3-8113-4287-9f70-e9f2df53f5b5.qdrcb6xjfz.png",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\5ae132e3-8113-4287-9f70-e9f2df53f5b5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1217057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nqgdC/ZcNcczliTQ61qiOrE/TwRpqX3csDYwatDQPqU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 21:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qdrcb6xjfz"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/5ae132e3-8113-4287-9f70-e9f2df53f5b5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nqgdC/ZcNcczliTQ61qiOrE/TwRpqX3csDYwatDQPqU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/5f9353a0-fc1b-4805-903c-cf5312a7e1f9.jpeg",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\5f9353a0-fc1b-4805-903c-cf5312a7e1f9.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1849320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cjfBHwcrnkn+HadD8RzpLIY45NSnePHvR+j0uk2aztU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 07:04:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cjfBHwcrnkn+HadD8RzpLIY45NSnePHvR+j0uk2aztU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/5f9353a0-fc1b-4805-903c-cf5312a7e1f9.ug7be823mv.jpeg",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\5f9353a0-fc1b-4805-903c-cf5312a7e1f9.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1849320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cjfBHwcrnkn+HadD8RzpLIY45NSnePHvR+j0uk2aztU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 07:04:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ug7be823mv"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/5f9353a0-fc1b-4805-903c-cf5312a7e1f9.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cjfBHwcrnkn+HadD8RzpLIY45NSnePHvR+j0uk2aztU="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/7b353d00-7ab4-4f23-8a8d-ed2bca69c4b3.jpg",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\7b353d00-7ab4-4f23-8a8d-ed2bca69c4b3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Bqqcy8XFNFq6K9X1C9BTxOvGowY7hzXpdxrBnerFPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 20:08:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Bqqcy8XFNFq6K9X1C9BTxOvGowY7hzXpdxrBnerFPE="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/7b353d00-7ab4-4f23-8a8d-ed2bca69c4b3.s0tkjar9vx.jpg",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\7b353d00-7ab4-4f23-8a8d-ed2bca69c4b3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Bqqcy8XFNFq6K9X1C9BTxOvGowY7hzXpdxrBnerFPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 20:08:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s0tkjar9vx"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/7b353d00-7ab4-4f23-8a8d-ed2bca69c4b3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Bqqcy8XFNFq6K9X1C9BTxOvGowY7hzXpdxrBnerFPE="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/816312c7-e732-428f-b0e3-ec018e2b4548.0sr28e42gs.png",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\816312c7-e732-428f-b0e3-ec018e2b4548.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "354029"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4EbThroNAdK5jgfn0FgAZESwUqTaYakS/Tl6PelyDyI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 02:46:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0sr28e42gs"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/816312c7-e732-428f-b0e3-ec018e2b4548.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4EbThroNAdK5jgfn0FgAZESwUqTaYakS/Tl6PelyDyI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/816312c7-e732-428f-b0e3-ec018e2b4548.png",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\816312c7-e732-428f-b0e3-ec018e2b4548.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "354029"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4EbThroNAdK5jgfn0FgAZESwUqTaYakS/Tl6PelyDyI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 02:46:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4EbThroNAdK5jgfn0FgAZESwUqTaYakS/Tl6PelyDyI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/a7e78d5e-f66c-461b-9f12-75ec9624bd7d.dl1qc9zr0t.png",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\a7e78d5e-f66c-461b-9f12-75ec9624bd7d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bzWGXE+B12DbVA5mwFR3VxV9ox65wdCeCyUep1CIjhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 06:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dl1qc9zr0t"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/a7e78d5e-f66c-461b-9f12-75ec9624bd7d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bzWGXE+B12DbVA5mwFR3VxV9ox65wdCeCyUep1CIjhE="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/a7e78d5e-f66c-461b-9f12-75ec9624bd7d.png",
+      "AssetFile": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\a7e78d5e-f66c-461b-9f12-75ec9624bd7d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bzWGXE+B12DbVA5mwFR3VxV9ox65wdCeCyUep1CIjhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 06:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bzWGXE+B12DbVA5mwFR3VxV9ox65wdCeCyUep1CIjhE="
+        }
+      ]
+    }
+  ]
+}

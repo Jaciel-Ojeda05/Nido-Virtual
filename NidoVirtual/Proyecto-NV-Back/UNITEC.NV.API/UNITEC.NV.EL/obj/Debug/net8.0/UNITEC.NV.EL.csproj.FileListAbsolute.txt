@@ -1,0 +1,12 @@
+C:\NidoVirtual\Proyecto-NV-Back\UNITEC.NV.API\UNITEC.NV.EL\bin\Debug\net8.0\UNITEC.NV.EL.deps.json
+C:\NidoVirtual\Proyecto-NV-Back\UNITEC.NV.API\UNITEC.NV.EL\bin\Debug\net8.0\UNITEC.NV.EL.dll
+C:\NidoVirtual\Proyecto-NV-Back\UNITEC.NV.API\UNITEC.NV.EL\bin\Debug\net8.0\UNITEC.NV.EL.pdb
+C:\NidoVirtual\Proyecto-NV-Back\UNITEC.NV.API\UNITEC.NV.EL\obj\Debug\net8.0\UNITEC.NV.EL.csproj.AssemblyReference.cache
+C:\NidoVirtual\Proyecto-NV-Back\UNITEC.NV.API\UNITEC.NV.EL\obj\Debug\net8.0\UNITEC.NV.EL.GeneratedMSBuildEditorConfig.editorconfig
+C:\NidoVirtual\Proyecto-NV-Back\UNITEC.NV.API\UNITEC.NV.EL\obj\Debug\net8.0\UNITEC.NV.EL.AssemblyInfoInputs.cache
+C:\NidoVirtual\Proyecto-NV-Back\UNITEC.NV.API\UNITEC.NV.EL\obj\Debug\net8.0\UNITEC.NV.EL.AssemblyInfo.cs
+C:\NidoVirtual\Proyecto-NV-Back\UNITEC.NV.API\UNITEC.NV.EL\obj\Debug\net8.0\UNITEC.NV.EL.csproj.CoreCompileInputs.cache
+C:\NidoVirtual\Proyecto-NV-Back\UNITEC.NV.API\UNITEC.NV.EL\obj\Debug\net8.0\UNITEC.NV.EL.dll
+C:\NidoVirtual\Proyecto-NV-Back\UNITEC.NV.API\UNITEC.NV.EL\obj\Debug\net8.0\refint\UNITEC.NV.EL.dll
+C:\NidoVirtual\Proyecto-NV-Back\UNITEC.NV.API\UNITEC.NV.EL\obj\Debug\net8.0\UNITEC.NV.EL.pdb
+C:\NidoVirtual\Proyecto-NV-Back\UNITEC.NV.API\UNITEC.NV.EL\obj\Debug\net8.0\ref\UNITEC.NV.EL.dll

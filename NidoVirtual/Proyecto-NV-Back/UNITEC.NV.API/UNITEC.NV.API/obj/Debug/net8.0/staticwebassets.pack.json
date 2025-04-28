@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\04abfaf4-c3ab-4a86-8a62-7ecd8d206c6c.png",
+      "PackagePath": "staticwebassets\\imagenes\\04abfaf4-c3ab-4a86-8a62-7ecd8d206c6c.png"
+    },
+    {
+      "Id": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\106f2539-b449-4951-a6fa-b0ace545f397.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\106f2539-b449-4951-a6fa-b0ace545f397.jpg"
+    },
+    {
+      "Id": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\296dcaca-b126-476b-af0b-9106e5471a3f.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\296dcaca-b126-476b-af0b-9106e5471a3f.jpeg"
+    },
+    {
+      "Id": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\2a21a6b3-f9e8-4b2a-b605-46a5e5f22e0e.png",
+      "PackagePath": "staticwebassets\\imagenes\\2a21a6b3-f9e8-4b2a-b605-46a5e5f22e0e.png"
+    },
+    {
+      "Id": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\315b912b-dddd-46d0-8a87-d06ee33e20b8.png",
+      "PackagePath": "staticwebassets\\imagenes\\315b912b-dddd-46d0-8a87-d06ee33e20b8.png"
+    },
+    {
+      "Id": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\5ae132e3-8113-4287-9f70-e9f2df53f5b5.png",
+      "PackagePath": "staticwebassets\\imagenes\\5ae132e3-8113-4287-9f70-e9f2df53f5b5.png"
+    },
+    {
+      "Id": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\5f9353a0-fc1b-4805-903c-cf5312a7e1f9.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\5f9353a0-fc1b-4805-903c-cf5312a7e1f9.jpeg"
+    },
+    {
+      "Id": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\7b353d00-7ab4-4f23-8a8d-ed2bca69c4b3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\7b353d00-7ab4-4f23-8a8d-ed2bca69c4b3.jpg"
+    },
+    {
+      "Id": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\816312c7-e732-428f-b0e3-ec018e2b4548.png",
+      "PackagePath": "staticwebassets\\imagenes\\816312c7-e732-428f-b0e3-ec018e2b4548.png"
+    },
+    {
+      "Id": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\wwwroot\\imagenes\\a7e78d5e-f66c-461b-9f12-75ec9624bd7d.png",
+      "PackagePath": "staticwebassets\\imagenes\\a7e78d5e-f66c-461b-9f12-75ec9624bd7d.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UNITEC.NV.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UNITEC.NV.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UNITEC.NV.API.props",
+      "PackagePath": "build\\UNITEC.NV.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UNITEC.NV.API.props",
+      "PackagePath": "buildMultiTargeting\\UNITEC.NV.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UNITEC.NV.API.props",
+      "PackagePath": "buildTransitive\\UNITEC.NV.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

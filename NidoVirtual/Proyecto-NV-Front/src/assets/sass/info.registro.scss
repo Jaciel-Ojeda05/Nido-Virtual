@@ -1,0 +1,17 @@
+@import '../base/base';
+@import "./info_color_variables";
+
+.card {
+    border: none !important;
+    border-radius: 0% !important;
+    border-bottom: 1px solid $m-color_3 !important;
+}
+
+@media (max-width: 575px) {
+    .info .info-layouting .info-tab-section {
+        padding: 35px 25px;
+        .accordion .card .card-header div svg.feather-code {
+            display: none;
+        }
+    }
+}

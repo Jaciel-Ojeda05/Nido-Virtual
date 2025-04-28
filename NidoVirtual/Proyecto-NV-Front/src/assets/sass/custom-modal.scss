@@ -1,0 +1,82 @@
+@import '../base/base'; 
+
+.modal {
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 10999;
+}
+.modal-content {
+    border: none;
+    border-radius: 6px;
+
+    hr {
+        border-top: 1px solid $m-color_3;
+    }
+
+    .modal-header {
+        padding: 12px 26px;
+        border-bottom: 1px solid $m-color_3;
+
+        h5 {
+            font-weight: 700;
+            font-size: 20px;
+            letter-spacing: 1px;
+        }
+
+        svg {
+            width: 17px;
+            color: $l-dark;
+        }
+    }
+
+    .modal-body {
+        padding: 26px 26px;
+
+        a:not(.btn) {
+            color: $primary;
+            font-weight: 600;
+        }
+
+        p {
+            color: $m-color_6;
+            letter-spacing: 1px;
+            font-size: 14px;
+            line-height: 22px;
+
+            &:last-child {
+                margin-bottom: 0;
+            }
+
+            &:not(:last-child) {
+                margin-bottom: 10px;
+            }
+        }
+    }
+
+    .modal-footer {
+        border-top: 1px solid $m-color_3;
+
+        button.btn {
+            font-weight: 600;
+            padding: 10px 25px;
+            letter-spacing: 1px;
+
+            &[data-dismiss='modal'] {
+                background-color: $white;
+                color: $primary;
+                font-weight: 700;
+                border: 1px solid #e8e8e8;
+            }
+        }
+
+        .btn.btn-primary {
+            background-color: $primary;
+            color: $white;
+            border: 1px solid $primary;
+        }
+    }
+}
+
+.modal-backdrop {
+    background-color: rgba(0, 0, 0, 0.5); 
+}
+

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE8470-485C-4ED9-B0FA-B26B58BADB0F}|UNITEC.NV.API\\UNITEC.NV.API.csproj|c:\\nidovirtual\\proyecto-nv-back\\unitec.nv.api\\unitec.nv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DE8470-485C-4ED9-B0FA-B26B58BADB0F}|UNITEC.NV.API\\UNITEC.NV.API.csproj|solutionrelative:unitec.nv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B2C1C1-8A12-4387-9536-FA69C9B28E93}|UNITEC.NV.DAL\\UNITEC.NV.DAL.csproj|c:\\nidovirtual\\proyecto-nv-back\\unitec.nv.api\\unitec.nv.dal\\videojuegos\\videojuegosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B2C1C1-8A12-4387-9536-FA69C9B28E93}|UNITEC.NV.DAL\\UNITEC.NV.DAL.csproj|solutionrelative:unitec.nv.dal\\videojuegos\\videojuegosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\Program.cs",
+              "RelativeDocumentMoniker": "UNITEC.NV.API\\Program.cs",
+              "ToolTip": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.API\\Program.cs",
+              "RelativeToolTip": "UNITEC.NV.API\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwHAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:27:47.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideojuegosRepository.cs",
+              "DocumentMoniker": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.DAL\\Videojuegos\\VideojuegosRepository.cs",
+              "RelativeDocumentMoniker": "UNITEC.NV.DAL\\Videojuegos\\VideojuegosRepository.cs",
+              "ToolTip": "C:\\NidoVirtual\\Proyecto-NV-Back\\UNITEC.NV.API\\UNITEC.NV.DAL\\Videojuegos\\VideojuegosRepository.cs",
+              "RelativeToolTip": "UNITEC.NV.DAL\\Videojuegos\\VideojuegosRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:26:17.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

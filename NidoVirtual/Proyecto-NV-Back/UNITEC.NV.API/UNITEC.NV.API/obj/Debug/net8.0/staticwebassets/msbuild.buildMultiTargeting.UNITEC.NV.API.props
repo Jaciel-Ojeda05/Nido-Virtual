@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UNITEC.NV.API.props" />
+</Project>

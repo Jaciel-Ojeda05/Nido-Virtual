@@ -1,0 +1,3 @@
+----CONEXIÓN A BASE DE DATOS DESDE EL BACKEND
+
+Scaffold-DbContext "Server=EDUAREM;Database=NidVUser ID=EduarEsc; Password=2809;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -Context NVContext -OutputDir NVContext/EntidadesContext -ContextDir NVContext -Project UNITEC.NV.DAL -StartupProject UNITEC.NV.DAL -DataAnnotations -NoOnConfiguring -Force
